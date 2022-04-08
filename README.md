@@ -10,5 +10,5 @@ Assets and visual cues from notJustDev.dev [notJustDev.dev](https://click.conver
 
 ## Demo
 
-<video src='./20220408221646.mp4' width=250 autoplay>
-</video>
+<video src='/20220408221646.mp4' width=180 autoplay />
+
