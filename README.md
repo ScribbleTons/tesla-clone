@@ -10,5 +10,6 @@ Assets and visual cues from notJustDev.dev [notJustDev.dev](https://click.conver
 
 ## Demo
 
-<video src='/20220408221646.mp4' width=180 autoplay />
+[![demo](https://img.youtube.com/vi/wU2P60noR0Q/0.jpg)](https://www.youtube.com/watch?v=wU2P60noR0Q)
+
 
